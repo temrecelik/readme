@@ -5,7 +5,7 @@
 </p>
 
 
-<h2>Languages Tools</h2>
+<h2>Languages And Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,javascript,cs,html,css,dotnet,visualstudio,vscode,postman,rabbitmq,postgresql,mongo)](https://skillicons.dev)
 
