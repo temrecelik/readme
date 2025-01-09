@@ -7,5 +7,7 @@
 
 <h2>Languages Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,javascript,cs,html,css,dotnet,postgresql,mongo,visualstudio,vscode,postman,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,javascript,cs,html,css,dotnet,visualstudio,vscode,postman,rabbitmq,postgresql,mongo)](https://skillicons.dev)
+
+
 
